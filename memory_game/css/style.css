@@ -2,7 +2,18 @@ body {
 	text-align: center;
 	font-family: "Raleway", sans-serif;
 	color: #0d2c40;
+	margin:0;
 	
+}
+header{
+	background-color:#f15b31;
+	color:white;
+	padding: 30px 20px;
+}
+nav{
+	background-color:#00a6b3;
+	color:white;
+	padding:20px 0;
 }
 h1 {
 	
@@ -10,6 +21,7 @@ h1 {
 	font-size: 45px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
+	margin:0;
 }
 h2 {
 	font-weight: 600;
@@ -29,6 +41,7 @@ a {
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
-	color: #f15b31;
 	text-transform: uppercase;
+	color:white;
+	margin:0 20px;
 }
